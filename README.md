@@ -20,7 +20,7 @@ The screen shows the current gesture, the live processing rate, and rolling late
 
 <p align="center">
   <!-- Replace with your demo: drag a screen recording or GIF into the GitHub editor -->
-  <img src="assets/demo.gif" width="320" alt="Screen recording of GestureAR: an open palm spawns a blue box on a table, a pinch grows it, and a fist rotates it.">
+  <img src="assets/GestureAR-demo.gif" width="320" alt="Screen recording of GestureAR: an open palm spawns a blue box on a table, a pinch grows it, and a fist rotates it.">
 </p>
 
 <p align="center"><sub>Demo recording on iPhone 14.</sub></p>
